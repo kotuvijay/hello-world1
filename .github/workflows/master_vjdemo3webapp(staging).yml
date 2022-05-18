@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'vjdemo3webapp'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2B28FA484D040B0AC37A7BC81CB4E68 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B393B3C7E09F4B8CA89DABC4650BEC20 }}
           package: .
